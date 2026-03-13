@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm a Blockchain Developer & Content Creator 🚀</h1>
+  <h1>Hi, I'm Cindy, a Blockchain Developer & Content Creator 🚀</h1>
   <p><b>Building the future of decentralized systems, AI agents, and digital ownership.</b></p>
 
   <p>
